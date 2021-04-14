@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+So, I did what I always do when faced with a new learning challenge, I went looking for resources and found … my dad. Bittersweet because even after 33 years, I miss him. But he left wonderful legacies including some books of poetry he used during his own graduate work and so I pulled what I have off my basement shelf and began to read: What does a poem mean ?, by American poet John Ciardi, an essay by Marshall McLuhan from The major English romantic poets, and poems from This way delight (hence the collage on this page).
 
-You can use the [editor on GitHub](https://github.com/marthabufton/Poetry/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is why I am drawn to e.e. cummings.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I felt more hopeful (hence the presence of Emily Dickinson) but what about form? Free verse struck me as requiring too much technical skill (kind of like trying to be an impressionist painter without being able to draw) but a haiku too short.
 
-### Markdown
+Again, I went looking for more resources and this time had a delightful conversation with my research partner who has done lots of creative writing, including poetry. “Try a villanelle,” she suggested. “A villanelle?” An old friend, it turns out, because I love Dylan Thomas’s Do not go gentle into that good night, and a new one because I discovered Sylvia Plath’s Mad girl’s love song.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I can do this (hope again).
 
-```markdown
-Syntax highlighted code block
+This time, the resource of choice was Voyant tools, which I am getting to know through my digital humanities research project. Let’s just put my jottings from the Hallville observation into the program and see what pops out: Stagecoach Road. Surprising, as I hadn’t noticed how many times I had written this term in my notes but a very good place to start.
 
-# Header 1
-## Header 2
-### Header 3
+Five tercets and quatrain later, I have a poem … that I like.
 
-- Bulleted
-- List
+And my understanding of my results is so different. I thought that I hadn’t observed much, didn’t really have any findings to share. And now, aspects of living in a rural community are emerging (vehicles, colours, dying rinks) and so is my confidence in my ability to work with new methods as well as my delight in poetry. Somehow, having to distill my impressions to essentials, having to find words that rhyme, having to re-visualize when I saw in metaphors, all these poetic requirements have led me to what Sherry and Schouten (2002) call honest and authentic truth (p. 218).
 
-1. Numbered
-2. List
+I have emerged from this process thinking, “OMG, poetry is great.” I am transformed.
 
-**Bold** and _Italic_ and `Code` text
+Reference list
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marthabufton/Poetry/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Sherry, J.F, & Schouten, J.W. (2002). A role for poetry in consumer research. *The Journal of Consumer Research, 29*(2), 218–234. https://doi.org/10.1086/341572
